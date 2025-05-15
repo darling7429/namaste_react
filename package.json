@@ -1,0 +1,26 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "initializing the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darling7429/namaste_react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste-react"
+  ],
+  "author": "naresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darling7429/namaste_react/issues"
+  },
+  "homepage": "https://github.com/darling7429/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  }
+}
