@@ -1,25 +1,9 @@
-{
-  /* <div id="parent">
-    <div id="child1">
-         <h1>im h1</h1>
-    <h2>im h2</h2>
-
-    </div>
-   
-
-    <div id="child2">
-        <h1>im h1</h1>
-    <h2>im h2</h2>
-
-
-    </div>
-
-</div> */
-}
+import React from "react";
+import ReactDOM from "react-dom/client"
 
 const h1 = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child1" }, [
-    React.createElement("h1", {}, "i am from h1"),
+    React.createElement("h1", {}, "i am from h1 with 🚀🚀🚀"),
     React.createElement("h1", {}, "iam from heading 2 with h1 tag ")
   ])
 ], React.createElement("div", { id: "child2" }, [
