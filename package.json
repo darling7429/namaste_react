@@ -5,8 +5,9 @@
 
 
   "scripts": {
-    "test": "jest",  
-    "start":"index.js"
+    "test": "jest",
+    "start":"parcel index.html"
+    
     
     
   },
